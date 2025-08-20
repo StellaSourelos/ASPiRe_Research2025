@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS knowledge (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    content TEXT
+);
+
+
